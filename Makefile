@@ -1,5 +1,5 @@
 CONTAINER = tvaughan/node
-VERSION = 5.5.0
+VERSION = 5.7.1
 
 DOCKER ?= docker
 
